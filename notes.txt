@@ -1,0 +1,63 @@
+Hello
+Do not just use div. 
+Hr gives the break - horizontal line. 
+mother f**king website.com 
+containers
+Accessibility tree - read about it. 
+how to use screen reader on my android phone 
+ 
+inline takes it own space two such elements do not move to the next line. it continues. 
+
+block element takes entire row
+
+rows and columns in text does not work the same as in html 
+
+take any website and do a component library 
+make a library 
+how loading looks 
+where is button 
+
+self closing tag img
+undraw.co 
+for illustrations 
+
+tailwind colors tailwindcss.com/docs/customizing-colors 
+
+blogposts - png 
+websites - svg 
+images folder in vs code 
+rename 
+images/hero.svg
+
+inspect element 
+unsplash for free images
+
+emmet creates this scaffolding
+type html 
+viewport makes it responsive 
+
+section is a tag 
+codepen for practising html 
+
+footer not using header sections. 
+
+shortcut for comment -- command + / for comment 
+
+head content is not visible
+body content is visible 
+bem convention
+
+a is inline element. taking the entire block.  
+use inspect and mouse to check and inspect elements
+
+section for disjointed patterns
+
+aside html tag 
+footer in mozilla mdn website 
+
+footer is end point 
+
+using git in vs code 
+
+
+
